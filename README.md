@@ -3,6 +3,9 @@
 <a href="https://linkedin.com/in/rohithpoyyeri">
   <img align="left" alt="Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://www.quora.com/profile/Rohith-Poyyeri">
+  <img align="left" alt="Quora" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
+</a>
 <a href="https://github.com/rohithart">
   <img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -26,9 +29,9 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a starwars fan and loves drumming. May the code be with you.
 
-[![Twitter: rohithart](https://img.shields.io/twitter/follow/rohithart?style=social)](https://twitter.com/rohithart)
 [![Linkedin: rohithpoyyeri](https://img.shields.io/badge/-rohithpoyyeri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohithpoyyeri/)](https://www.linkedin.com/in/rohithpoyyeri/)
 [![GitHub rohithart](https://img.shields.io/github/followers/rohithart?label=follow&style=social)](https://github.com/rohithart)
+[![Twitter: rohithart](https://img.shields.io/twitter/follow/rohithart?style=social)](https://twitter.com/rohithart)
 [![website](https://img.shields.io/badge/Rohith-Portfolio-green?style=flat-square&logo=google-chrome)](https://rohithpoyyeri.com)
 
 
