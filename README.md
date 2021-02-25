@@ -35,7 +35,7 @@
 [![website](https://img.shields.io/badge/Rohith-Portfolio-green?style=flat-square&logo=google-chrome)](https://rohithpoyyeri.com)
 
 
-<div align="center">
+<div align="left">
 
 ### Love all, respect all and may the peace be with you. #worldpeace
 ### ❤️,
