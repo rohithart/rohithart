@@ -1,4 +1,4 @@
-## Namaskarm, I'm [Rohith Poyyeri!](rohithpoyyeri.com) 👋 May the code be with you.
+## Namaskarm, I'm [Rohith Poyyeri!](https://rohithpoyyeri.com) 👋 May the code be with you.
 
 <a href="https://linkedin.com/in/rohithpoyyeri">
   <img align="left" alt="Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
