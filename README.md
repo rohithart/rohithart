@@ -6,7 +6,7 @@ using FullStackDeveloper;
 public static class Rohith extends FullStackDeveloper {
   public Rohith() {
     while (developer.required === true) {
-      Console.WriteLine("I am more than happy to do it. Feel free to contact me").
+      Console.WriteLine("I am more than happy to do it. Feel free to contact me.");
       break;
     ❵
   }
