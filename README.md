@@ -1,4 +1,5 @@
 ## Namaskarm, I'm [Rohith Poyyeri!](https://rohithpoyyeri.com) 👋 May the code be with you.
+
 ```c#
 using System;
 using FullStackDeveloper;
@@ -22,21 +23,14 @@ public static class Rohith extends FullStackDeveloper {
 <br/>
 <br/>
 
-[![Linkedin](https://img.shields.io/badge/rohithart-0A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohithpoyyeri/)
-[![Quora](https://img.shields.io/badge/Rohith-B92B27.svg?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Rohith-Poyyeri)
-[![github](https://img.shields.io/badge/rohithart-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohithart/)
-[![facebook](https://img.shields.io/badge/rohithrp-0866FF.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.racebook.com/rohith.r.p/)
-[![Instagram](https://img.shields.io/badge/rohithart-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rohithart/)
-[![Twitter](https://img.shields.io/badge/rohithart-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/rohithart)
-
-<br/>
-<br/>
-
 - 🔭 I’m currently working on match making app, like Tinder.
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about development and code related stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a starwars fan and loves drumming. May the code be with you.
+
+<br/>
+<br/>
 
 <p align="left">
   <img src="https://img.shields.io/badge/angular-ea0707?style=for-the-badge&logo=angular&logoColor=white"/> 
@@ -68,6 +62,11 @@ public static class Rohith extends FullStackDeveloper {
   <img src="https://img.shields.io/badge/dynamodb-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/azure-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/> 
   <br/>
   <img src="https://img.shields.io/badge/and-72EF36?style=for-the-badge&logo=pluscodes&logoColor=white"/> 
   <img src="https://img.shields.io/badge/more-72EF36?style=for-the-badge&logo=searxng&logoColor=white"/> 
@@ -75,16 +74,20 @@ public static class Rohith extends FullStackDeveloper {
 
 <br/>
 <br/>
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
-<br/>
-<br/>
-<div align="left">
-  ### Love all, respect all and may the peace be with you. #worldpeace
-  ### ❤️,
-  ### Rohith
-</div>
 
-  [[Portfolio](https://rohithpoyyeri.com)]
-  [[GDD](https://gdd.rohithpoyyeri.com)]
-  [[GrocStock](https://grocstock.com.au/)]
+### Love all, respect all and may the peace be with you. #worldpeace
 
+### ❤️, Rohith
+
+[[Portfolio](https://rohithpoyyeri.com)]
+[[GDD](https://gdd.rohithpoyyeri.com)]
+[[GrocStock](https://grocstock.com.au/)]
+
+<br/>
+
+[![Linkedin](https://img.shields.io/badge/rohith-0A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohithpoyyeri/)
+[![Quora](https://img.shields.io/badge/Rohith-B92B27.svg?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Rohith-Poyyeri)
+[![github](https://img.shields.io/badge/rohithart-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohithart/)
+[![Instagram](https://img.shields.io/badge/rohithart-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rohithart/)
+[![Twitter](https://img.shields.io/badge/rohithart-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/rohithart)
+[![facebook](https://img.shields.io/badge/rohithrp-0866FF.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.racebook.com/rohith.r.p/)
